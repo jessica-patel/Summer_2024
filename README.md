@@ -3,3 +3,5 @@
 **Research Question**: How can machine learning and UX design be used to effectively combat and moderate verbal harassment in online video games?
 
 Jessica's master's thesis project with contributions from Yun's fourth-year CS project.
+
+Link to Comment Toxicity notebook being referenced: https://github.com/nicknochnack/CommentToxicity/blob/main/Toxicity.ipynb
